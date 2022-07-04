@@ -1,0 +1,12 @@
+Menggunakan input dinamis
+input :
+Menginputkan data kelas, nim, nama dengan array 1 dimensi
+
+Baris = 15
+Kolom = 3
+
+Proses:
+mengubah array 1 dimensi menjadi 2 dimensi
+
+output:
+Mengoutputkan data dalam bentuk array 1 dimensi terlebih dahulu lalu mengoutputkan data yang telah diubah ke bentuk array 2 dimensi
